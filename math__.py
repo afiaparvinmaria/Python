@@ -1,7 +1,5 @@
 import math #python has a  build in module called math, which extends the list of the mathematical functions
 
-
-
 #max function/min function
 x=min(5,10,25)
 y=max(5,10,25)
